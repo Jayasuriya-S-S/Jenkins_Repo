@@ -2,7 +2,7 @@ package devops;
 
 class Jenkins{
 	Jenkins(){
-		System.out.println("welcome to jenkins");
+		System.out.println("Welcome to jenkins");
 	}
 }
 class ci extends Jenkins{
